@@ -1,0 +1,26 @@
+
+# Python
+*.pyc
+__pycache__/
+
+# Virtual Environments
+.env
+venv/
+env/
+
+# Django
+*.log
+*.pot
+*.pyo
+*.swp
+local_settings.py
+
+# macOS
+.DS_Store
+
+# IDEs and Editors (add more as needed)
+.idea/
+.vscode/
+
+# Ignore API keys and other secrets (add more as needed)
+secrets.json
